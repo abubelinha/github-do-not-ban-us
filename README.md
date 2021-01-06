@@ -129,6 +129,8 @@ You can:
 
 - GitHub page are now working for restricted persons.
 
+- [Advancing developer freedom: GitHub is fully available in Iran](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/) [2021-01-05]. 
+
 ## Supporters (list sorted alphabetically)
 
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
